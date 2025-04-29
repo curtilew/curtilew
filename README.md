@@ -7,7 +7,7 @@ Hi there! 👋 I'm Trey, a **CPA transitioning into tech**, currently pursuing a
 ## 👩🏽‍💻 **About Me**
 - 🎓 I'm studying Computer Science at **Oregon State University**, aiming to graduate by 2026.
 - 💡 Passionate about **helping startups** in any way I can, especially in the tech space.
-- 🤖 Focused on mastering **Python**, **Flask**, and growing my knowledge in **version control** like Git/GitHub.
+- 🤖 Focused on mastering **Python**, **Flask**, **Java**, and growing my knowledge in **version control** like Git/GitHub.
 - ✍️ I enjoy **traveling**, **MMA**, **foodie adventures**, and **philosophy**.
 
 ---
