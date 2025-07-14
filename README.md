@@ -1,5 +1,5 @@
 # Lewis C.
-Hey there! 👋 I'm Trey, a **Post-Bacc Computer Science student** with a **CPA background**, transitioning from financial reporting to **software engineering**. I'm passionate about building **AI-powered fintech solutions** that solve real-world business problems.
+Hey there! 👋 I'm Lewis, a **Post-Bacc Computer Science student** with a **CPA background**, transitioning from financial reporting to **software engineering**. I'm passionate about building **AI-powered fintech solutions** that solve real-world business problems.
 
 ---
 
