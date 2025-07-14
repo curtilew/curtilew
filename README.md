@@ -29,7 +29,7 @@ Hey there! 👋 I'm Trey, a **Post-Bacc Computer Science student** with a **CPA 
 ---
 
 ## 2025/2026 Goals
-- **Summer 2025 Internship**
+- **Summer 2025 Internship & New Grad SWE Opportunities**
 - **Industry Recognition**: Speaking at fintech conferences about compliance automation
 - **Open Source**: Contributing to financial data processing and AI/ML libraries
 
