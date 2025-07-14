@@ -1,43 +1,65 @@
 # Trey C.
-
-Hi there! 👋 I'm Trey, a **CPA transitioning into tech**, currently pursuing a **Computer Science degree**. My journey is all about blending **software engineering** and **entrepreneurship** to create impactful solutions. 
-
----
-
-## 👩🏽‍💻 **About Me**
-- 🎓 I'm studying Computer Science at **Oregon State University**, aiming to graduate by 2026.
-- 💡 Passionate about **helping startups** in any way I can, especially in the tech space.
-- 🤖 Focused on mastering **Python**, **Flask**, **Java**, and growing my knowledge in **version control** like Git/GitHub.
-- ✍️ I enjoy **traveling**, **MMA**, **foodie adventures**, and **philosophy**.
+Hi there! 👋 I'm Trey, a **Post-Bacc Computer Science student** with a **CPA background**, transitioning from financial reporting to **software engineering**. I'm passionate about building **AI-powered fintech solutions** that solve real-world business problems.
 
 ---
 
-## 🌱 **What I'm Working On**
-- 🎯 Building a **motivation app** to help people stay focused on their goals.
-- 💪 Developing an **MMA website** to bring together news, insights, and resources for the sport I love.
-- 💼 Exploring opportunities in **Software Engineering internships** and looking forward to contributing to open source projects.
-- 🧠 Constantly improving my skills in **Python**, **HTML/CSS**, **Java (basic)**, and **OOP** as I work on various coding projects.
+## 🚀 **About Me**
+- 🎓 Completing my **Computer Science Post-Bacc** at Oregon State University, graduating **Spring 2025**
+- 💼 **Former CPA** bringing **business domain expertise** to software engineering
+- 🤖 Specializing in **AI/ML applications** for **financial compliance** and **sustainability**
+- 🎯 Targeting **FAANG companies** and **top-tier fintech** to create **massive positive impact**
+- 🏆 **ColorStack member** passionate about diversity in tech
+
+---
+
+## 🛠️ **Current Projects**
+- 📊 **XBRL Automation SaaS**: AI-powered system reducing SEC compliance costs by 70% (40 hours → 2-4 hours)
+- 🌱 **EcoTrack**: Carbon footprint tracker with ML-powered predictions and behavioral analysis
+- 💰 **Personal Finance App**: Full-stack application with Plaid API integration for transaction analysis
+- 🤖 **Enterprise-grade architecture**: Microservices, RESTful APIs, and cloud deployment
+
+---
+
+## 💡 **What Sets Me Apart**
+- **Domain Expertise**: Deep understanding of financial compliance, regulatory reporting (XBRL), and business processes
+- **AI/ML Focus**: Implementing machine learning for real-world applications during the AI boom
+- **Full-Stack Capability**: Next.js, TypeScript, Python, PostgreSQL, cloud deployment
+- **Business Impact**: Projects solve actual $25K+ business problems, not just tutorial exercises
+
+---
+
+## 🎯 **2025 Goals**
+- 🏢 **Summer 2025 Internship** at top-tier tech company (Google, Stripe, or major fintech)
+- 🧠 **Algorithm Mastery**: LeetCode medium problems for technical interviews
+- 🗣️ **Industry Recognition**: Speaking at fintech conferences about compliance automation
+- 🚀 **Open Source**: Contributing to financial data processing and AI/ML libraries
 
 ---
 
 ## 🤝 **Looking to Collaborate**
-- 🚀 **Startups**: I’m eager to help startups in any way possible—whether through tech, strategy, or problem-solving.
-- 🔍 **Tech Communities**: Always open to joining groups where I can learn from and contribute to exciting initiatives.
-- 💬 Feel free to connect if you're working on something cool and think we can collaborate!
+- 🏦 **Fintech Startups**: Compliance automation, regulatory technology, AI-powered financial tools
+- 🌱 **Sustainability Tech**: Carbon tracking, environmental impact measurement, ESG reporting
+- 💻 **Open Source**: Financial data standards, XBRL processing, ML model deployment
+- 🎤 **Speaking Opportunities**: Fintech meetups, compliance automation, career transition stories
 
 ---
 
-## 📫 **Get in Touch**
-- LinkedIn: www.linkedin.com/in/trey-curtis-cpa-61b10079 
-- Email: curtilew@oregonstate.edu
+## 📈 **Technical Stack**
+**Languages**: TypeScript, Python, JavaScript, Java, SQL  
+**Frontend**: Next.js, React, Tailwind CSS, Chart.js  
+**Backend**: Node.js, Prisma ORM, RESTful APIs  
+**AI/ML**: OpenAI API, TensorFlow, predictive modeling  
+**Database**: PostgreSQL, Redis  
+**Cloud**: Vercel, AWS, Docker  
+**Tools**: Git, GitHub, Docker, CI/CD
 
 ---
 
-## 🛠️ **Tech Stack**
-- **Languages**: Python, HTML/CSS, JavaScript (basic), Java (basic)
-- **Frameworks**: Flask
-- **Tools**: Git, GitHub, Trello, Tailwind CSS
+## 📫 **Connect With Me**
+- 💼 **LinkedIn**: [linkedin.com/in/trey-curtis-cpa-61b10079](https://www.linkedin.com/in/trey-curtis-cpa-61b10079)
+- 📧 **Email**: curtilew@oregonstate.edu
+- 🌟 **Portfolio**: [View my deployed projects →](https://github.com/treycurtis?tab=repositories)
 
 ---
 
-_“Show your work, build in public, and stay curious.”_
+*"Building the bridge between business problems and AI-powered solutions. From CPA to SWE, solving tomorrow's challenges today."*
