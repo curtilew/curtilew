@@ -51,7 +51,7 @@ I'm always open to connecting with others who are passionate about:
 
 ### Connect With Me
 
-[LinkedIn](www.linkedin.com/in/lewis-curtis-61b10079) | [GitHub](https://github.com/curtilew) | [Email](mailto:lewiswcurtis@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lewis-curtis-61b10079) | [GitHub](https://github.com/curtilew) | [Email](mailto:lewiswcurtis@gmail.com)
 
 ---
 
